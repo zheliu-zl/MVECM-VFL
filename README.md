@@ -1,7 +1,7 @@
 # MVECM-VFL
 This is a very simple implementation of our paper:
 
-#### Binary Multi-View Clustering, 
+#### Multi-view evidential c-means clustering with view-weight and feature-weight learning, 
 
 The details can be found in the [FSS website](https://www.sciencedirect.com/science/article/pii/S0165011424002811). 
 
