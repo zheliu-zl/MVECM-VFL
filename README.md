@@ -3,7 +3,7 @@ This is a very simple implementation of our paper:
 
 #### Binary Multi-View Clustering, 
 
-The details can be found in the [FSS website]([https://www.sciencedirect.com/science/article/pii/S0165011424002811]). 
+The details can be found in the [FSS website](https://www.sciencedirect.com/science/article/pii/S0165011424002811). 
 
 This code has been evaluated on Matlab.
 
